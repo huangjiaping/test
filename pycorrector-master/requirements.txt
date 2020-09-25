@@ -7,5 +7,5 @@ torch>=0.4.1
 torchtext
 pytorch-pretrained-bert
 jieba
-tensorflow==1.9.0
+tensorflow==1.15.4
 
